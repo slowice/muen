@@ -2,6 +2,8 @@
 
 本文件是给另一台电脑上的 AI 代理阅读的安装说明。仓库中的个人 Skill 以 [`personal-skills/`](personal-skills/) 为唯一来源。
 
+个人全局 `AGENTS.md` 使用独立入口 [`IMPORT_PERSONAL_AGENTS.md`](IMPORT_PERSONAL_AGENTS.md) 导入。
+
 推荐对代理这样说：
 
 > 请参考 `IMPORT_PERSONAL_SKILLS.md`，将本仓库 `personal-skills/` 中的 Skill 引入当前 Codex 环境。
