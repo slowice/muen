@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coding Executor Simulator"
+  short_description: "模拟 Coding executor 子进程事件与交互流程"
+  default_prompt: "Use $coding-executor to build a reusable subprocess test for Coding executor events."

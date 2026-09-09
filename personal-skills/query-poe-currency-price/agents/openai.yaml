@@ -1,0 +1,4 @@
+interface:
+  display_name: "查询通货价格"
+  short_description: "按 Metadata ID 查询官方通货小时成交与兑换比例"
+  default_prompt: "使用 $query-poe-currency-price 查询指定通货在 Standard 的官方历史成交价格。"

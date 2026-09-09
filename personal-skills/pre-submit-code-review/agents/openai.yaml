@@ -1,0 +1,4 @@
+interface:
+  display_name: "上库前代码检视"
+  short_description: "只针对本次代码增量检查类型、日志、异常处理与低级错误"
+  default_prompt: "Use $pre-submit-code-review to incrementally review only the code changed in my current diff."

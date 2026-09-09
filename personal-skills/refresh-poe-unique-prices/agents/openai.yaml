@@ -1,0 +1,4 @@
+interface:
+  display_name: "刷新传奇装备"
+  short_description: "刷新 Standard 完整传奇粉尘、价格与来源表格"
+  default_prompt: "使用 $refresh-poe-unique-prices 刷新 Standard 永久区完整传奇装备价格总表。"

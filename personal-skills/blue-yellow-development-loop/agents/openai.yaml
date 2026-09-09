@@ -1,0 +1,6 @@
+interface:
+  display_name: "黄蓝开发协作"
+  short_description: "蓝区修改代码，人工操作环境，黄区分析日志并回传结论"
+  default_prompt: "Use $blue-yellow-development-loop to prepare and maintain the current Blue-Yellow development handoff."
+policy:
+  allow_implicit_invocation: true

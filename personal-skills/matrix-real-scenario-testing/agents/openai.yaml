@@ -1,0 +1,7 @@
+interface:
+  display_name: "matrix真实场景测试"
+  short_description: "快速复用依赖，验证 MatrixAssistant 真实端到端场景"
+  default_prompt: "Use $matrix-real-scenario-testing to validate this MatrixAssistant change through the real application path."
+
+policy:
+  allow_implicit_invocation: true
